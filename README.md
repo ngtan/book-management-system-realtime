@@ -17,3 +17,5 @@
   $ php bin/server.php
 `
 
+## Thanks for
+  Ratchet WebSockets for PHP - http://socketo.me/
